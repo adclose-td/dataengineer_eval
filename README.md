@@ -20,7 +20,7 @@
 #### Notes
 Feel free to use us online resources such as stack overflow, google, and pandas documentation as needed.
 
-In additionally we recognise that this can be quite extensive.  it is not failure to not finish a short paragraph about
+In additionally we recognise that this can be quite extensive.  it is not failure to not finish, however a short paragraph about
 your approach to problems you couldn't finish is also helpful
 
 
