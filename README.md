@@ -24,5 +24,10 @@ In additionally we recognise that this can be quite extensive.  it is not failur
 your approach to problems you couldn't finish is also helpful
 
 
+##Submission
+Please Return Your Solution set with its own readme file with any notes on how
+to setup and run your code in a zip file to your recruiter or hr contact.  
+
+
 
 
