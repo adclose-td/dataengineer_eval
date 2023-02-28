@@ -12,12 +12,12 @@
 8. Find the failure_emails for each group in the changes.csv file by looking them up in the database
 
 
-### Bonuses
+## Bonuses
 1. Organize your code for testability write meaningful unit tests of your code
 2. Using the changed rows determine if any are a close match to names the original staging table
 3. Describe how we can make this evaluation better
 
-#### Notes
+### Notes
 Feel free to use us online resources such as stack overflow, google, and pandas documentation as needed.
 
 In additionally we recognise that this can be quite extensive.  it is not failure to not finish, however a short paragraph about
