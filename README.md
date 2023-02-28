@@ -26,7 +26,9 @@ your approach to problems you couldn't finish is also helpful
 
 ##Submission
 Please Return Your Solution set with its own readme file with any notes on how
-to setup and run your code in a zip file to your recruiter or hr contact.  
+to setup and run your code in a zip file and upload to MFT/SFTP server with information provided.
+File should be named `my_name.zip` and put in the inbound folder.  You won't have read or list permissions so you won't see file appear after it is uploaded. 
+
 
 
 
